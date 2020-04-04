@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="initial_number_value">0</string>
+    <bool name="default_preference_boolean">true</bool>
+    <integer name="default_preference_number">88888</integer>
+    <string name="default_preference_string">Default String Value</string>
+</resources>
